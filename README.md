@@ -33,7 +33,10 @@
 
 #### 利用 Python 可视化
 
-![]()
+![](https://github.com/Ning95/N-Queen/blob/master/data/对比图.png)
+
+
+- 可以看出在 N 比较大的时候，多线程对运行效率的提升还是比较明显的
 
 ## 💡待拓展
 
